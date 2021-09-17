@@ -1,4 +1,4 @@
-Olá, sou ítalo Gabriel👋
+- Olá, sou ítalo Gabriel👋
 
 - 🔭 Atualmente trabalho com suporte TI
 - 🌱 Estudando SQL
@@ -22,7 +22,6 @@ Olá, sou ítalo Gabriel👋
  	<a href="https://twitter.com/eu_itaru" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielgg.tavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/italo-gabriel-dos-santos-tavares-4449631a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-      ![Snake animation](https://github.com/ItaloGabs/ItaloGabs/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+   ![Snake animation](https://github.com/ItaloGabs/ItaloGabs/blob/output/github-contribution-grid-snake.svg)
 

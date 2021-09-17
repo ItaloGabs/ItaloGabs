@@ -1,8 +1,6 @@
-##
 ## Olá,Eu sou o ítalo Gabriel👋
 - 🔭 Atualmente trabalho com suporte TI
 - 🌱 Estudando SQL
-##
 <div>
   <a href="https://github.com/ItaloGabs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloGabs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

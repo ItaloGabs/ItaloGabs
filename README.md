@@ -45,9 +45,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloGabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloGabs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div>
-   ![Snake animation](https://github.com/ItaloGabs/ItaloGabs/blob/output/github-contribution-grid-snake.svg)
- </div>
+
 
 
 

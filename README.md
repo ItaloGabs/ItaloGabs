@@ -40,9 +40,11 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloGabs&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloGabs&show_icons=true&theme=tokyonight)
-[![ItaloGabs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloGabs&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/ItaloGabs/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloGabs&layout=compact&theme=tokyonight) -->
+<div align="center">
+  <a href="https://github.com/ItaloGabs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloGabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloGabs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 

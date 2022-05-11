@@ -6,7 +6,9 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eu_itaru)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/italo-gabriel-dos-santos-tavares-4449631a6/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16)]()
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16)](https://open.spotify.com/user/31rmubxd7aam65crhtsxawcitb3a)
+[![Discord Badge](https://img.shields.io/badge/-discord-grey?style=for-the-badge&logo=Discord&logoColor=white)](https://sites.google.com/view/eviltsumabot/p%C3%A1gina-inicial)
+ 
 </h4>
 
 <h3 align="center">  <br>
@@ -32,7 +34,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 - Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas pessoas e ter novas experiências.
 
-## Meu Linktree [:link:]()
+## Meu Linktree [:link:](http://linktr.ee/eviltsuma)
 
 ## Meus dados no Github
 
